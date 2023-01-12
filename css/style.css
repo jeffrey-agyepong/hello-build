@@ -45,7 +45,7 @@ h1 {
   color: white;
   border: 0px;
 }
-header div h3 {
+header div h2 {
   padding-right: 20px;
 }
 .center {
@@ -67,7 +67,7 @@ main {
   background-color: white;
 }
 
-h3 {
+h2 {
   font-size: 32px;
   color: #8594ad;
   font-weight: bold;
