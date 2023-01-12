@@ -1,2 +1,2 @@
 # hello_build
- Demo assigment for DMIT 1530
+Introductory assignment for DMIT 1530 - Web Design Fundamentals II
