@@ -1,0 +1,98 @@
+body {
+  font-size: 100%;
+  text-align: center;
+  background-color: #edf2f7;
+  color: #8594ad;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  width: 960px;
+  margin: 0 auto;
+  font-size: 100%;
+  line-height: 1.5;
+  height: 100%;
+}
+button:hover {
+  background-color: white;
+  color: #a0aec0;
+  border: 1px solid #dd6b20;
+}
+.hero {
+  width: 959px;
+  height: 325px;
+  background-color: white;
+  margin-top: 36px;
+}
+.flex {
+  display: flex;
+}
+
+h1 {
+  font-size: 125px;
+  font-weight: bold;
+  color: #63b3ed;
+}
+
+.blue {
+  color: #63b3ed;
+}
+.brown {
+  background-color: #dd6b20;
+}
+.hire {
+  font-size: 24px;
+  color: white;
+  border: 0px;
+}
+header div h3 {
+  padding-right: 20px;
+}
+.center {
+  text-align: center;
+  justify-content: center;
+}
+
+.pad-right {
+  padding-right: 30px;
+}
+
+main {
+  padding-top: 36px;
+  padding-bottom: 36px;
+}
+.box-width {
+  width: 300px;
+  height: 261px;
+  background-color: white;
+}
+
+h3 {
+  font-size: 32px;
+  color: #8594ad;
+  font-weight: bold;
+}
+
+.mr {
+  margin-right: 30px;
+}
+
+ul {
+  line-height: 2;
+}
+.box-width h3 {
+  padding-top: 30px;
+}
+footer {
+  width: 960px;
+  height: 50px;
+  margin: 0 auto;
+  background: white;
+  text-align: left;
+}
+footer p {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 32px;
+  font-style: italic;
+}
