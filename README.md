@@ -1,4 +1,4 @@
 # hello_build
-Introductory assignment for DMIT 1530 - Web Design Fundamentals II
+Introductory assignment to DMIT 1530 - Web Design Fundamentals II
 
-Implemented mobile responsiveness
+
