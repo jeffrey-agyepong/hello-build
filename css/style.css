@@ -121,11 +121,16 @@ footer p {
     font-size: 80px;
   }
 
-  .grid {
-    display: grid;
-    grid-gap: 20px;
-    margin: 0 auto;
-    justify-items: center;
+  header div {
+    flex-direction: column;
+    padding: 30px;
+  }
+
+
+  main {
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
   }
 
   section {
