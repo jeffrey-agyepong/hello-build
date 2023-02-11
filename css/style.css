@@ -104,10 +104,8 @@ footer {
 }
 
 footer p {
-  padding-top: 20px;
-  padding-bottom: 20px;
-  padding-left: 32px;
   font-style: italic;
+  padding-top: 20px;
 }
 
 /** Mobile device **/
@@ -123,7 +121,7 @@ footer p {
 
   header div {
     flex-direction: column;
-    padding: 30px;
+    padding: 10px;
   }
 
 
@@ -142,6 +140,12 @@ footer p {
     margin: 0 auto;
     background: white;
     text-align: center;
+  }
+
+  footer p {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 32px;
   }
 }
 
